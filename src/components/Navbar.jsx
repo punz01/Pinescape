@@ -27,10 +27,10 @@ const Navbar = () => {
       </ul>
 
       <div className='flex justify-between'>
-        <a href="#" className='mx-4 hover:text-blue-500 transition'><FaFacebookF /></a>
-        <a href="#" className='mx-4 hover:text-blue-400 transition'><FaTwitter /></a>
-        <a href="#" className='mx-4 hover:text-red-500 transition'><FaGooglePlusG /></a>
-        <a href="#" className='mx-4 hover:text-pink-500 transition'><FaInstagram /></a>
+        <a href="/" className='mx-4 hover:text-blue-500 transition'><FaFacebookF /></a>
+        <a href="/" className='mx-4 hover:text-blue-400 transition'><FaTwitter /></a>
+        <a href="/" className='mx-4 hover:text-red-500 transition'><FaGooglePlusG /></a>
+        <a href="/" className='mx-4 hover:text-pink-500 transition'><FaInstagram /></a>
       </div>
 
       {/* Hamburger Icon */}
